@@ -1,5 +1,11 @@
 <generator>
-	<size>1</size>
+	<size>3</size>
+	<graph>
+		<nodes>30000</nodes>
+	</graph>
+	<graph>
+		<nodes>30000</nodes>
+	</graph>
 	<graph>
 		<nodes>30000</nodes>
 	</graph>
