@@ -1,1 +1,1 @@
-# KGConfigs
+# KGResearch
