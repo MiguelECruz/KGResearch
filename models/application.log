@@ -1,0 +1,1206 @@
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+INFO - 
+--------- Loss ---------
+INFO - Name : pairwise
+INFO - eta : 1
+INFO - margin : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
+WARNING - All triples will be processed in the same batch (batches_count=1). When processing large graphs it is recommended to batch the input knowledge graph instead.
+INFO - 
+--------- Loss ---------
+INFO - Name : multiclass_nll
+INFO - eta : 1
+INFO - 
+------ Regularizer -----
+INFO - Name : LP
+INFO - lambda : 0.0001
+INFO - p : 3
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.001
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
