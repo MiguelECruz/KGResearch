@@ -9,6 +9,12 @@
 	<graph>
 		<nodes>30000</nodes>
 	</graph>
+	<graph>
+		<nodes>30000</nodes>
+	</graph>
+	<graph>
+		<nodes>30000</nodes>
+	</graph>
 
 	<predicates>
 		<size>4</size>
