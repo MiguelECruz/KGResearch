@@ -1,7 +1,7 @@
 # Effects of knowledge graph structural properties on their predictive performance
 
-#### **Main programmer**: Miguel E. Cruz Molina | miguel.cruz15@upr.edu
-#### **Research mentor**: Dr. Rafael A. Arce Nazario | rafael.arce@upr.edu
+#### Main programmer: Miguel E. Cruz Molina | miguel.cruz15@upr.edu
+#### Research mentor: Dr. Rafael A. Arce Nazario | rafael.arce@upr.edu
 
 ## Abstract
 
